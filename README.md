@@ -1,10 +1,12 @@
 # Hamza Khan — Full-Stack Developer
 
+🏆 **Winner of the HackerNoon Proof of Usefulness Hackathon** — $1,000 cash + $10,000 Algolia credits for [Visual MCP Gateway](https://visual-mcp-gateway.vercel.app), a unified AI chat interface that turns complex MCP servers into visual AI apps.
+
 Full-Stack Developer from Pakistan, building web and mobile products with **Next.js**, **React Native (Expo)**, **TypeScript**, and **Supabase**. I focus on shipping real, production-ready applications — not tutorials or demos.
 
-**Live project:** Bharosa Lab — a 3-way healthcare ecosystem (patient app, rider app, and an admin portal) built with Next.js, React Native, and Supabase, now live and in active use.
-
-**Currently building:** NizamiOS, a multi-tenant SaaS platform for Pakistani universities and training institutes, covering LMS, HR, and Finance management in one system.
+**Live projects:**
+- **Bharosa Lab** — a 3-way healthcare ecosystem (patient app, rider app, and an admin portal) built with Next.js, React Native, and Supabase, now live and in active use.
+- **Visual MCP Gateway** — type in English or Roman Urdu and Groq routes your request to the right tool (GitHub, Algolia, Bright Data, Neo4j, SQLite, Postman) in one chat. [Live demo](https://visual-mcp-gateway.vercel.app)
 
 I work with startups and businesses across the US, UK, and Canada as a freelance developer, and I'm open to collaborating on full-stack or AI-integrated application projects. If you're working with Next.js, React Native, Supabase, or building real-time, scalable systems, feel free to reach out.
 
